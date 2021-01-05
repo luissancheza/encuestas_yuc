@@ -13,7 +13,7 @@
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
   <link href="<?= base_url('assets/fonts/fontawesome5/css/all.css') ?>" rel="stylesheet" media="screen">
-  <link rel="shortcut icon" href="<?= base_url('assets/img/logosin.png') ?>" />
+  <link rel="shortcut icon" href="<?= base_url('assets/img/logoyuc.png') ?>" />
 	<script type="text/javascript">
   var base_url = live_url = "<?= base_url() ?>";
 </script>
@@ -66,7 +66,7 @@
   <nav class="navbar navbar-expand-md navbar-light bg-light shadow">
   <div class="container d-flex justify-content-between">
   
-    <a class="navbar-brand"><img src="<?php echo base_url('assets/img/censo-logo.png') ?>" class="img-fluid" alt="Escudo Sinaloa"></a>
+    <a class="navbar-brand"><img src="<?php echo base_url('assets/img/segey100v.png') ?>" class="img-fluid" alt="Escudo Yucatán"></a>
     <div class="justify-content-end">
    
     </div>

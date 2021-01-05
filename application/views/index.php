@@ -5,23 +5,13 @@
     <div class="col-md-5 info-img-1 shadow text-justify">
 	
         <p>
-			La educación debe ser una oportunidad para todos a lo largo de la vida. En la Secretaría
-			de Educación Pública y Cultura de Sinaloa(SEPyC), y el Instituto Sinaloense para la Educación de
-			los Adultos (ISEA), queremos apoyar a todas las personas que no han concluido la
-			educación básica.
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque hic nam, quasi sunt nobis aperiam ad commodi facilis impedit laudantium dicta exercitationem ab cumque saepe nemo, tenetur deleniti, magnam veritatis.
 		</p>
         <p>
-			La escuela es una instancia privilegiada para ayudar a los adultos en este objetivo. Por
-			ello, invitamos a toda la comunidad escolar a que pregunte a los alumnos y personal de la
-			escuela si tienen algún familiar, amigo o conocido <strong>mayor de 15 años</strong> y que no haya
-			concluido la primaria o la secundaria. No importa en qué parte del estado viva esa
-			persona.
+			Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci quas possimus esse excepturi consequuntur vero eveniet laboriosam ab libero, maiores id autem sequi! Neque rerum quidem incidunt ad, veritatis laboriosam!
 		</p>
 		<p>
-			Lo único que hay que hacer es registrar a estas personas en esta aplicación, para que un
-			representante del ISEA <strong>o de la SEPyC </strong> se ponga en contacto con ellos. Al registrarla, le habrás ayudado a
-			esa persona a alcanzar una meta que seguramente tendrá un impacto muy positivo en su
-			vida y en la de su familia. 
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet voluptate sit consequuntur placeat. Corporis laborum aspernatur, labore, fuga sit dicta velit deleniti error quas non, deserunt magni esse suscipit tempore!
 		</p>
 		<p>
 		<strong>¡Todos son bienvenidos!</strong>
@@ -61,27 +51,6 @@
 		</div>
 	</div>
 	
-	<div class="row align-items-end" style="vertical-align:;">
-    <div class="col">
-	<div class="card text-white bg-success shadow">
-  <div class="card-body">
-  <ul class="list-group">
-  <li class="list-group-item list-group-item-action">
-	  	<a href="<?=base_url("data/EncuestaRezagoSinaloa.pdf") ?>" style="color:black; text-decoration: none; cursor: pointer;" download="EncuestaRezagoSinaloa.pdf">
-		  <i class="fas fa-pen-square text-muted"></i> Formato de levantamiento 
-
-		</a>
-	</li>
-  <li class="list-group-item list-group-item-action">
-	  <a href="<?=base_url("data/Politicasprivacidad.pdf") ?>"  style="color:black; text-decoration: none; cursor: pointer;" target="_blank">
-	  <i class="fas fa-award text-muted"></i> Política de Privacidad</a> 
-</li>
-</ul>
-
-		</div>
-</div>
-    </div>
-	</div>
 
 	</div>
 	

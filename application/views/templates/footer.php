@@ -4,7 +4,7 @@
       <div class="container"> 
       <div class="row align-items-start justify-content-between">
     <div class="col-auto">
-    <img src="<?php echo base_url('assets/img/seplogo-dark.png') ?>" alt="" class="img-fluid"> 
+    <img src="<?php echo base_url('assets/img/logoyuc.png') ?>" alt="" class="img-fluid"> 
      </div>
      <div class="col-auto align-self-end text-muted text-right">
      <span><i class="fas fa-copyright text-success"></i> Algunos derechos reservados.</span>
