@@ -40,7 +40,7 @@ Rezago.prototype.get_rezago = function (edadmin, edadmax, rezago, idmunicipio){
                        2]);
 
       var options = {
-        title: "Numero de personas por tipo de rezago",
+        title: "Número de personas por tipo de rezago",
         width: 600,
         height: 400,
         bar: {groupWidth: "95%"},

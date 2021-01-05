@@ -3,7 +3,7 @@
 	<div class="row">
       <div class="col-4 mb-4 float-left">
       	<div class="form-group">
-		    <label for="tipo_estadisticas">Tipo de estadistica</label>
+		    <label for="tipo_estadisticas">Tipo de estadística</label>
 		    <select class="form-control" id="tipo_estadisticas">
 		      <option value="-1">SELECCIONE</option>
 		      <option value="1">Rezago</option>

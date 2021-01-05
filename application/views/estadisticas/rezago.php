@@ -2,13 +2,13 @@
   <div class="row">
     <div class="col-2">
       <div class="form-group">
-        <label for="edad_minima">Edad minima</label>
+        <label for="edad_minima">Edad mínima</label>
         <input type="number" class="form-control" id="edad_minima" value="15" min="15" max="99">
       </div>
     </div>
     <div class="col-2">
       <div class="form-group">
-        <label for="edad_maxima">Edad maxima</label>
+        <label for="edad_maxima">Edad máxima</label>
         <input type="number" class="form-control" id="edad_maxima" value="30" min="15" max="99">
       </div>
     </div>
@@ -36,7 +36,7 @@
       </div>
     </div>
     <div class="col-2">
-      <button class="float-right btn btn-md btn-success rounded-pill" id="btn_get_estadisticas"><i class="fas fa-plus-circle"></i> Ver estadisticas</button>
+      <button class="float-right btn btn-md btn-success rounded-pill" id="btn_get_estadisticas"><i class="fas fa-plus-circle"></i> Ver estadísticas</button>
     </div>
   </div>
 <!-- </form> -->
